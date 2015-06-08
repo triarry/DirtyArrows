@@ -1,5 +1,5 @@
 name: DirtyArrows
-main: nl.sugcube.dirtyarrows.DirtyArrows
+main: nl.SugCube.DirtyArrows.DirtyArrows
 version: '3.0'
 description: >
              DirtyArrows, just dirty
