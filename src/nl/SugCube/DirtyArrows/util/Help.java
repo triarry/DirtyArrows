@@ -1,6 +1,6 @@
-package nl.sugcube.dirtyarrows.util;
+package nl.SugCube.DirtyArrows.util;
 
-import nl.sugcube.dirtyarrows.DirtyArrows;
+import nl.SugCube.DirtyArrows.DirtyArrows;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;

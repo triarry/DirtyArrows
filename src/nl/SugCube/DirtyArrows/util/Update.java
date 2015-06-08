@@ -1,4 +1,4 @@
-package nl.sugcube.dirtyarrows.util;
+package nl.SugCube.DirtyArrows.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;

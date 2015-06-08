@@ -1,8 +1,8 @@
-package nl.sugcube.dirtyarrows.listener;
+package nl.SugCube.DirtyArrows.listener;
 
-import nl.sugcube.dirtyarrows.DirtyArrows;
-import nl.sugcube.dirtyarrows.util.Message;
-import nl.sugcube.dirtyarrows.util.Update;
+import nl.SugCube.DirtyArrows.DirtyArrows;
+import nl.SugCube.DirtyArrows.util.Message;
+import nl.SugCube.DirtyArrows.util.Update;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;

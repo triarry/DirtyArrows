@@ -1,10 +1,10 @@
-package nl.sugcube.dirtyarrows.region;
+package nl.SugCube.DirtyArrows.region;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import nl.sugcube.dirtyarrows.DirtyArrows;
-import nl.sugcube.sba.SMeth;
+import nl.SugCube.DirtyArrows.DirtyArrows;
+import nl.SugCube.sba.SMeth;
 
 import org.bukkit.Location;
 

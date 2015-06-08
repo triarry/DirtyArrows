@@ -1,7 +1,7 @@
-package nl.sugcube.dirtyarrows.ability;
+package nl.SugCube.DirtyArrows.ability;
 
-import nl.sugcube.dirtyarrows.DirtyArrows;
-import nl.sugcube.dirtyarrows.util.Util;
+import nl.SugCube.DirtyArrows.DirtyArrows;
+import nl.SugCube.DirtyArrows.util.Util;
 
 import org.bukkit.Sound;
 import org.bukkit.entity.Entity;

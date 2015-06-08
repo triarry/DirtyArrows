@@ -1,8 +1,8 @@
-package nl.sugcube.dirtyarrows.listener;
+package nl.SugCube.DirtyArrows.listener;
 
-import nl.sugcube.dirtyarrows.DirtyArrows;
-import nl.sugcube.dirtyarrows.util.Message;
-import nl.sugcube.dirtyarrows.util.Util;
+import nl.SugCube.DirtyArrows.DirtyArrows;
+import nl.SugCube.DirtyArrows.util.Message;
+import nl.SugCube.DirtyArrows.util.Util;
 
 import org.bukkit.GameMode;
 import org.bukkit.Sound;

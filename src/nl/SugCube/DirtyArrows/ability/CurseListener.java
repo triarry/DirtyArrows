@@ -1,9 +1,9 @@
-package nl.sugcube.dirtyarrows.ability;
+package nl.SugCube.DirtyArrows.ability;
 
 import java.util.Random;
 
-import nl.sugcube.dirtyarrows.DirtyArrows;
-import nl.sugcube.dirtyarrows.util.Message;
+import nl.SugCube.DirtyArrows.DirtyArrows;
+import nl.SugCube.DirtyArrows.util.Message;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Location;

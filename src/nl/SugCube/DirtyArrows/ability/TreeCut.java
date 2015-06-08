@@ -1,4 +1,4 @@
-package nl.sugcube.dirtyarrows.ability;
+package nl.SugCube.DirtyArrows.ability;
 
 import java.util.Random;
 

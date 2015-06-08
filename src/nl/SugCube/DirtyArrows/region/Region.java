@@ -1,4 +1,4 @@
-package nl.sugcube.dirtyarrows.region;
+package nl.SugCube.DirtyArrows.region;
 
 import org.bukkit.Location;
 

@@ -1,4 +1,4 @@
-package nl.sugcube.dirtyarrows.listener;
+package nl.SugCube.DirtyArrows.listener;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,14 +6,14 @@ import java.util.List;
 import java.util.Random;
 import java.util.UUID;
 
-import nl.sugcube.dirtyarrows.DirtyArrows;
-import nl.sugcube.dirtyarrows.ability.Swarm;
-import nl.sugcube.dirtyarrows.ability.TreeCut;
-import nl.sugcube.dirtyarrows.util.Error;
-import nl.sugcube.dirtyarrows.util.Message;
-import nl.sugcube.dirtyarrows.util.Methods;
-import nl.sugcube.dirtyarrows.util.Util;
-import nl.sugcube.dirtyarrows.util.Message.Type;
+import nl.SugCube.DirtyArrows.DirtyArrows;
+import nl.SugCube.DirtyArrows.ability.Swarm;
+import nl.SugCube.DirtyArrows.ability.TreeCut;
+import nl.SugCube.DirtyArrows.util.Error;
+import nl.SugCube.DirtyArrows.util.Message;
+import nl.SugCube.DirtyArrows.util.Message.Type;
+import nl.SugCube.DirtyArrows.util.Methods;
+import nl.SugCube.DirtyArrows.util.Util;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

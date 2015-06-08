@@ -1,4 +1,4 @@
-package nl.sugcube.sba;
+package nl.SugCube.sba;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

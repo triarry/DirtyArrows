@@ -1,4 +1,4 @@
-package nl.sugcube.dirtyarrows;
+package nl.SugCube.DirtyArrows;
 
 import org.bukkit.entity.Projectile;
 

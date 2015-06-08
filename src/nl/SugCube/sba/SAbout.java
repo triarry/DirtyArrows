@@ -1,4 +1,4 @@
-package nl.sugcube.sba;
+package nl.SugCube.sba;
 
 public class SAbout {
 

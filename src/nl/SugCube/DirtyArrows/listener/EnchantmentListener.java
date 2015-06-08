@@ -1,9 +1,9 @@
-package nl.sugcube.dirtyarrows.listener;
+package nl.SugCube.DirtyArrows.listener;
 
 import java.util.ArrayList;
 import java.util.Random;
 
-import nl.sugcube.dirtyarrows.DirtyArrows;
+import nl.SugCube.DirtyArrows.DirtyArrows;
 
 import org.bukkit.Material;
 import org.bukkit.enchantments.Enchantment;

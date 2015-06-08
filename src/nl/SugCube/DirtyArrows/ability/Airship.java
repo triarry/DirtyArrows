@@ -1,6 +1,6 @@
-package nl.sugcube.dirtyarrows.ability;
+package nl.SugCube.DirtyArrows.ability;
 
-import nl.sugcube.dirtyarrows.DirtyArrows;
+import nl.SugCube.DirtyArrows.DirtyArrows;
 
 import org.bukkit.entity.Player;
 import org.bukkit.entity.Projectile;
